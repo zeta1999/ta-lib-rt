@@ -1,3 +1,0 @@
-isEmpty(DESTDIR) {
- DESTDIR=./../../../../../bin
-} 
